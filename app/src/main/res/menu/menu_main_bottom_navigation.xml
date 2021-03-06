@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment"
+        android:title="@string/main_bottom_navigation_action_home"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item android:id="@+id/contactFragment"
+        android:title="@string/main_bottom_navigation_action_contacts"
+        android:icon="@mipmap/ic_launcher"
+        />
+</menu>
